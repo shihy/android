@@ -1,3 +1,18 @@
 <resources>
-    <string name="app_name">case_service</string>
+    <string name="app_name">服务</string>
+    <string name="start_stop">启动停止</string>
+    <string name="start">启动</string>
+    <string name="stop">停止</string>
+    <string name="bind_unbind">绑定取消</string>
+    <string name="bind">绑定</string>
+    <string name="unbind">取消绑定</string>
+    <string name="rebind">重新绑定</string>
+    <string name="front_start_stop">前台服务启动停止</string>
+    <string name="front_start">前台服务启动</string>
+    <string name="front_stop">前台服务停止</string>
+    <string name="auto_stop">自动停止服务启动</string>
+    <string name="auto">自动停止服务启动</string>
+    <string name="timer">定时器启动</string>
+    <string name="timer_start">定时器启动</string>
+    <string name="timer_stop">定时器停止</string>
 </resources>
