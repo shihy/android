@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">网络</string>
+    <string name="get_joke_btn">来个笑话</string>
+    <string name="get_joke_img_btn">来个笑图</string>
+    <string name="get_weather">天气咋样</string>
+    <string name="get_app">获取APP</string>
+</resources>
